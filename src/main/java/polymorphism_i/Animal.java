@@ -9,18 +9,5 @@ public class Animal {
     }
 }
 
-class Cat extends Animal{
-    public void voice(){
-        System.out.println("喵喵喵");
-    }
 
-    public void seedoor(){
-        System.out.println("看门!");
-    }
-}
 
-class Dog extends Animal{
-    public void voice(){
-        System.out.println("汪汪汪");
-    }
-}
