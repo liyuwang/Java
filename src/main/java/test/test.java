@@ -5,6 +5,8 @@ package test;
  */
 public class test{
     public static void main(String[] args) {
-        System.out.println(color.RED);
+        for(color e : color.values()){
+            System.out.println(e.ordinal());
+        }
     }
 }

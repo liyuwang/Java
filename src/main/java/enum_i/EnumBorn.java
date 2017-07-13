@@ -1,7 +1,6 @@
 package enum_i;
 
-/*
- * Created by wly on 17-3-19.
+/* Created by wly on 17-3-19.
 
  Enum出现之前,使用类似代码实现枚举功能:
  public class Color{
